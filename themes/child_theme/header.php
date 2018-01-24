@@ -173,7 +173,7 @@ var _gaq = _gaq || [];
   <div class="row">
     <div class="logo col-lg-2 col-md-3 col-sm-3 col-xs-12">
       <a href="/">
-        <img class="img-responsive aglogo" src="https://agriculture.purdue.edu/graphics/PurdueAgLogo.svg" onerror="this.src=//agriculture.purdue.edu/graphics/PurdueAgLogo.png; this.onerror=null;" >
+        <img class="img-responsive aglogo" src="https://extension.purdue.edu/PublishingImages/logo.png" >
       </a>
     </div>
     <!-- Insert Department or Center Name Below -->
